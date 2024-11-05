@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer, former teamlead, anime enthusiast
 ----------------------------------------------------
 
-I've been working as web developer for 6 years on the whole stack. I had a pleasure working as team lead for an awesome team for 1.5 years but now I'm back to my root as pure developer 💻
+I've been working as web developer for 6 years on the whole stack. I had a pleasure working as team lead for an awesome team for a while but now I'm back to my root as pure developer 💻
 
 * 🌍  I'm based in Stavanger
 * ⚡  Likes japanese culture and playing with my sons
